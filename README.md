@@ -1,5 +1,5 @@
 # IIB20804 IoT Application Security Mini Project (Semester Mar 2026)
-## Project Name: Mar26_YourGroupNameHere
+## Project Name: Mar26_SmartHomeAirQuality
 
 ### 🏢 Course Details & Team Members
 * **Course Code:** IIB20804 IoT Application Security
